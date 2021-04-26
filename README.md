@@ -2,6 +2,9 @@
 Quem nunca sonhou em criar a sua própria criptomoeda ou token?
 Bem eu já, tenho isso em mente busquei entender como funciona o processo para a criação de um token utilizando o padrão ERC-20 na rede Ethereum e irei descrever nesse repositório como eu criei o meu próprio Token.
 
+![image](https://user-images.githubusercontent.com/40063504/116113287-bd835600-a68e-11eb-8677-9bb6b5789e68.png)
+
+
 ## Porque Kcife?
 No sentido figurado de cacife significa: dinheiro, potencial, capacidade, força, competência.
 Ter cacife significa ter capacidade, conhecimento, dinheiro ou quaisquer outros meios necessários para a entrada de alguém em algo, é uma giria antiga brasileira que representa que o portador tem algo de valor, e por isso nomiei minha Token de Kcife, por que no final todo mundo quer ter cacife! rsrs.
