@@ -86,7 +86,7 @@ Após isso basta apenas clicar em "Adcionar tokens" e vocês irá poder vê-los 
 ![image](https://user-images.githubusercontent.com/40063504/116112450-f242dd80-a68d-11eb-8f50-945018b35fdf.png)
 
 
-Obs: Como eu ja havia feito o processo anteriormente você vera que tem uma diferença do simbolo do meu token original KCF para o outro KCf criado agora para exemplificar.
+Obs: Como eu ja havia feito o processo anteriormente você vera que tem uma diferença do simbolo do meu token original KCF para o outro KCt, criado agora para exemplificar.
 
 
 
