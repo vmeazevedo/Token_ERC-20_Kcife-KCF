@@ -1,0 +1,12 @@
+Carteira metamask
+https://metamask.io/
+
+Link da IDE para programar seu token
+http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.2+commit.661d1103.js
+
+Documentação tokens ERC20 para leitura (OPCIONAL)
+https://eips.ethereum.org/EIPS/eip-20
+
+Sites pagos que geram tokens (OPCIONAL)
+https://vittominacori.github.io/erc20-generator/
+https://www.tokenmaker.org/

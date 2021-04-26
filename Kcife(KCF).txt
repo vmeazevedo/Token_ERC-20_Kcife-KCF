@@ -1,0 +1,11 @@
+Contrato:
+0x2aF09694f0686570308692bA7a55554c888F1924
+
+Detalhes da Transação:
+https://ropsten.etherscan.io/tx/0xabc7e42ea844efa280d6af531996762792f31a0cbb46dff012c554b1ffa3f015
+
+Kcife (KCF) Token Tracker:
+https://ropsten.etherscan.io/token/0x2af09694f0686570308692ba7a55554c888f1924
+
+Endereço do Contrato:
+https://ropsten.etherscan.io/address/0x2aF09694f0686570308692bA7a55554c888F1924
